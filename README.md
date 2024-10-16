@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/enabled_lo/564x/e0/0c/62/e00c628d83109a800c86a3725cf6a295.jpg"  width="5000">
 
 
-<h1 align="center">Hi 👋, I'm ZAOUI Hanane</h1>
+<h1 align="center">Hi there 👋, I'm ZAOUI Hanane</h1>
 <h3 align="center">AI and Data science student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaoui-hanane&label=Profile%20views&color=0e75b6&style=flat" alt="zaoui-hanane" /> </p>
